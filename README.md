@@ -1,6 +1,6 @@
 # unemp-stem
   
-a data visualization made in completion of the Coursera/University of Michigan course Applied Plotting, Charting & Data Representation in Python.
+a data visualization that explores the connection between US unemployment rates and the proportion of STEM degrees awarded by the University of Michigan system (Ann Arbor, Dearborn, and Flint) between the years 2004 and 2016
 
 #### raw data used
 
